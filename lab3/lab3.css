@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(223, 223, 223);
+}
+
+.weather {
+    margin:auto;
+    margin-top:30px;
+    text-align: center;
+    width:50%;
+}
+
+.weatherCard{
+    width: 90%;
+    background-color: rgb(212, 208, 208);
+    
+    margin:auto;
+    border: solid #000 1px;
+    border-radius: 10px;
+
+}
+
+.buttzone{
+    margin-bottom:10px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.it{
+    font-style:italic;
+    font-size:16px;
+}
+
+#icon{
+    width: 50%;
+}
+
+#temp{
+    font-size:80px;
+    margin-bottom:5px;
+    margin-top:0px;
+}
+
+.column{
+    width:50%;
+    float:left;
+    height: 340px;
+}
+
+.catCard{
+    width: 90%;
+    background-color: rgb(212, 208, 208);
+    text-align:center;
+    margin:auto;
+    margin-top:30px;
+    border: solid #000 1px;
+    border-radius: 10px;
+
+}
+
+#catpic {
+    width: 90%;
+    margin-bottom: 10px;
+    border: solid #000 1px;
+    border-radius: 10px;
+}
