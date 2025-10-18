@@ -1,0 +1,16 @@
+body {
+  background: #f5f5f5;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#weather {
+  font-size: 1.2em;
+}
+
+#cat-img {
+  max-height: 400px;
+}
