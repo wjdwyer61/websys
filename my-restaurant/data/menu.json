@@ -1,0 +1,43 @@
+{
+    "dishes":[
+        {
+            "name":"Baked Ziti",
+            "description":"Baked ziti with marinara and ricotta covered in mozzarella",
+            "category":"Vegetarian",
+            "cuisine":"Italian",
+            "image":"resources/img/Simply-Recipes-Baked-Ziti-LEAD-db0d2e1b6e554b4aa6ff8a2f23f2f903.jpg",
+            "ingredients":"Ziti noodles, marinara sauce, ricotta cheese, mozzarella cheese",
+            "price":"12.50"
+        },
+        {
+            "name":"California Roll",
+            "description":"Imitation crab, avocado, and cucumber, wrapped in rice and seaweed",
+            "category":"Non-vegetarian",
+            "cuisine":"Japanese",
+            "image":"resources/img/California-Roll-1-500x500.jpg",
+            "ingredients":"Rice, seaweed, imitation crab, avocado, cucumber",
+            "price":"14"
+        },
+        {
+            "name":"Ravioli",
+            "description":"Cheese ravioli in marinara sauce",
+            "category":"Vegetarian",
+            "cuisine":"Italian",
+            "image":"resources/img/Cheese-ravioli-card.jpg",
+            "ingredients":"Cheese ravioli, marinara sauce",
+            "price":"10"
+        },
+        {
+            "name":"Cheeseburger",
+            "description":"Burger with tomatoes, lettuce, and american cheese",
+            "category":"Non-vegetarian",
+            "cuisine":"American",
+            "image":"resources/img/Smashburger-recipe-120219.jpg",
+            "ingredients":"Beef patty, tomatoes, lettuce, pickles, american cheese, bun",
+            "price":"11.50"
+        }
+
+
+
+    ]
+}
